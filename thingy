@@ -1,0 +1,2 @@
+var firstname = prompt("What's your name?");
+alert("I like your name " + firstname);
