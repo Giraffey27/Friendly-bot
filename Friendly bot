@@ -1,6 +1,7 @@
 var firstname = prompt("What's your name?");
 var lowfirst = firstname.toLowerCase();
 alert("I like your name " + firstname);
+alert("My name is Jeffrey, the friendly chat bot!");
 var daystatus = prompt("How is your day going?")
 switch(daystatus) {
 case "bad", "Bad":
