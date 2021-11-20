@@ -3,7 +3,7 @@ var lowfirst = firstname.toLowerCase();
 alert("I like your name " + firstname);
 var daystatus = prompt("How is your day going?")
 switch(daystatus) {
-case "bad":
+case "bad", "Bad":
 alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
