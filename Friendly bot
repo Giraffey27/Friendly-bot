@@ -1,4 +1,5 @@
 var firstname = prompt("What's your name?");
+var lowfirst = firstname.toLowerCase();
 alert("I like your name " + firstname);
 var daystatus = prompt("How is your day going?")
 switch(daystatus) {
@@ -13,5 +14,5 @@ default:
 alert("Sorry, I haven't learned that one yet")
 }
 var rating = prompt("Thank you for chatting, how was your experience?");
-alert("Thank you for your rating " + firstname.toLowerCase)
+alert("Thank you for your rating " + )
 alert("Bye!!!")
