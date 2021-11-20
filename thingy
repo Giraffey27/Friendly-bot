@@ -1,2 +1,10 @@
 var firstname = prompt("What's your name?");
 alert("I like your name " + firstname);
+var day-status = prompt("How is your day going?")
+switch(day-status) {
+case "bad":
+alert("Sorry about that, I hope you feel better later")
+break;
+default:
+alert("Sorry can you please repeat that?")
+}
