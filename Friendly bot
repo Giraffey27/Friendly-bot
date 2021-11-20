@@ -7,6 +7,7 @@ alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
 default:
-alert("Sorry can you please repeat that?")
-daystatus = prompt("How is your day going?")
+alert("Sorry, I haven't learned that one yet")
 }
+var rating = prompt("Thank you for chatting, how was your experience?");
+alert("Thank you")
