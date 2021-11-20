@@ -11,7 +11,7 @@ break;
 case "good", "Good":
 alert("I'm glad you're having a good day!❤")
 break;
-case "great", "Great":
+case "great":
 alert("I'm feeling great too! Have a Wonderful Day!")
 break;
 default:
