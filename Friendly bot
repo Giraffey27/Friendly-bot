@@ -13,5 +13,5 @@ default:
 alert("Sorry, I haven't learned that one yet")
 }
 var rating = prompt("Thank you for chatting, how was your experience?");
-alert("Thank you for your rating " + firstname)
+alert("Thank you for your rating " + firstname.toLowerCase)
 alert("Bye!!!")
