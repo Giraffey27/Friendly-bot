@@ -2,7 +2,7 @@ var firstname = prompt("What's your name?");
 alert("I like your name " + firstname);
 var daystatus = prompt("How is your day going?")
 switch(daystatus) {
-case "bad", "not good", "Bad", "Not good":
+case "bad":
 alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
