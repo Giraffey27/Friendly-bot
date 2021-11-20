@@ -8,4 +8,5 @@ alert("I hope you feel better soon!😊")
 break;
 default:
 alert("Sorry can you please repeat that?")
+daystatus = prompt("How is your day going?")
 }
