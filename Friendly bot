@@ -6,7 +6,7 @@ case "bad":
 alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
-case "good"
+case "good":
 alert("I'm glad you're having a good day!❤")
 break;
 default:
