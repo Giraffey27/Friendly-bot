@@ -4,11 +4,11 @@ alert("I like your name " + firstname);
 alert("My name is Jeffrey, the friendly chat bot!");
 var daystatus = prompt("How is your day going?")
 switch(daystatus) {
-case "bad", "Bad":
+case "bad":
 alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
-case "good", "Good":
+case "good":
 alert("I'm glad you're having a good day!❤")
 break;
 case "great":
