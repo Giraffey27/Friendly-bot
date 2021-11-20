@@ -7,8 +7,11 @@ case "bad", "Bad":
 alert("Sorry " + firstname)
 alert("I hope you feel better soon!😊")
 break;
-case "good":
+case "good", "Good":
 alert("I'm glad you're having a good day!❤")
+break;
+case "great", "Great":
+alert("I'm feeling great too! Have a Wonderful Day!")
 break;
 default:
 alert("Sorry, I haven't learned that one yet")
